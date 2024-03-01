@@ -1,0 +1,25 @@
+//　変数
+$beige :#FFF7F1;
+$dark_beige: #EADBC8;
+$brown: #DAC0A3;
+$blue: #102C57;
+$light_blue: rgba(16, 44, 87, 0.8);
+$white: #fff;
+$orange: #FFE4C9;
+$red: #E78895;
+$green: rgb(190, 209, 207);
+$light_green: rgba(190, 209, 207, .8);
+
+//ブレークポイント
+$breakpoints: (
+        'sm': 'screen and (max-width:479px)',
+        'md': 'screen and (max-width:767px)',
+        'lg': 'screen and (max-width:1000px)',
+) !default;
+
+//mixin
+@mixin mq($breakpoint: md){
+  @media #{map-get($breakpoints,$breakpoint)}{
+    @content;
+  }
+}

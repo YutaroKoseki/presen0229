@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 100%;
+  vertical-align: bottom;
+}
+
+input,textarea{
+  cursor: pointer;
+  display: block;
+  margin: 15px 0;
+  padding: 10px 5px;
+}
+
+a{
+  color: $blue;
+  cursor: pointer;
+  padding:15px 20px;
+  text-decoration: none;
+
+  &:hover{
+    color: $red;
+  }
+}
+
+button{
+  cursor: pointer;
+}
+
+p{
+  margin: 0;
+}
+
+.fa-star{
+  color:$red;
+}

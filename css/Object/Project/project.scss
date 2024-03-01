@@ -1,0 +1,414 @@
+.p-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &__title{
+    font-size: 24px;
+    font-weight: normal;
+  }
+}
+
+
+// =========================
+// message
+// =========================
+
+.p-message{
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+
+  &__error{
+    background: $red;
+    color: $white;
+    margin: 0;
+    padding: 15px 0;
+  }
+
+  &__success{
+    background: $light_green;
+    margin: 0;
+    padding: 15px 0;
+  }
+}
+
+// =========================
+// login
+//==========================
+.p-login{
+  margin-bottom: 50px;
+}
+
+
+// =========================
+// mypage
+// =========================
+
+.p-mypage{
+  background: none;
+  box-shadow: none;
+  padding: 100px 30px;
+  width: 100%;
+
+}
+
+
+// =========================
+// user(マイページ)
+// =========================
+
+.p-user{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  &__name{
+    font-size: 17px;
+  }
+
+  &__avatar{
+    height: 50px;
+    margin-left: 15px;
+    width: 50px;
+
+    &--item{
+      border-radius: 100%;
+      box-shadow: 0 0 3px $orange;
+      height: 100%;
+    }
+  }
+}
+
+// =========================
+// userReview(マイページ)
+// =========================
+
+.p-userReviews{
+  margin: 70px 0;
+
+  &__title{
+    font-weight: normal;
+  }
+
+  &__wrap{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    @include mq(){
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &__contents{
+    box-shadow: 0 0 8px $orange;
+    margin: 0 10px;
+    padding: 20px 30px;
+  }
+
+  &__machine{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    &--thumbnail{
+      border-radius: 5px;
+      box-shadow: 0 0 8px $orange;
+      height: 80px;
+      width: 80px;
+    }
+
+    &--name{
+      font-size: 17px;
+      font-weight: bold;
+      margin-left: 15px;
+    }
+  }
+
+  &__point{
+    margin: 20px 0;
+  }
+
+  &__delete{
+    overflow: hidden;
+    text-align: right;
+
+    &--submit{
+      float: right;
+      font-size: 15px;
+      margin: 20px 0;
+    }
+  }
+
+}
+
+
+
+// =========================
+// prof
+// =========================
+
+.p-prof{
+
+  &__withdraw{
+    margin: 70px 15px 0 0;
+    text-align: right;
+  }
+}
+
+// =========================
+// edit
+// =========================
+.p-edit{
+
+  &__avatar{
+
+    &--input{
+      box-shadow: none;
+      padding: 0;
+    }
+
+  }
+
+  &__preview{
+    margin: 0 auto;
+    width: 60%;
+
+    &--image{
+      border-radius: 5px;
+      box-shadow: 0 0 8px $orange;
+    }
+  }
+
+  &__submit{
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: center;
+    width: 60%;
+
+    &--input{
+      float: right;
+    }
+  }
+
+}
+
+// =========================
+// withdraw
+// =========================
+
+.p-withdraw{
+  position: relative;
+
+  &__form{
+    text-align: center;
+  }
+
+  &-button{
+    background: $blue;
+    color: $white;
+    font-size: 17px;
+    margin-top: 50px;
+    padding: 15px 25px;
+  }
+}
+
+// =========================
+// modal
+// =========================
+
+.p-modal{
+  height: 300px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+
+  &__content{
+    background: $white;
+    border-radius: 5px;
+    box-shadow: 0 0 8px;
+    height: 100%;
+    padding: 100px 0;
+    width: 100%;
+  }
+
+  &__text{
+    margin-bottom: 50px;
+  }
+
+  &__confirm{
+    background: $red;
+    color: $white;
+    font-size: 17px;
+    padding: 15px 20px;
+    margin-right: 15px;
+  }
+
+  &__cancel{
+    font-size: 17px;
+    padding: 15px 20px;
+  }
+
+}
+
+// =========================
+// machineList
+// =========================
+
+
+// =========================
+// machine
+// =========================
+.p-machine{
+  padding: 20px 30px;
+
+  &__title{
+    text-align: center;
+  }
+
+  &__image{
+    border-radius: 5px;
+    box-shadow: 0 0 8px;
+    display: block;
+    margin: 50px auto;
+    max-width: 500px;
+    width: 90%;
+  }
+
+  &__link{
+    margin: 30px 0;
+    text-align: right;
+  }
+}
+
+
+// =========================
+// detail(台情報詳細)
+// =========================
+
+.p-detail{
+
+  &__title{
+    text-align: center;
+  }
+
+  &__thumbnail{
+    border-radius: 5px;
+    box-shadow: 0 0 8px;
+    display: block;
+    margin: 50px auto;
+    max-width: 500px;
+    width: 90%;
+  }
+
+  &__wrap{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 50px;
+
+    @include mq(){
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &__link{
+    margin-right: 15px;
+    text-align: right;
+
+    &--item{
+      &:hover{
+        color: $white;
+      }
+    }
+  }
+}
+
+
+// =========================
+// machineReview
+// =========================
+
+.p-machineReview{
+  background: $white;
+  border-radius: 5px;
+  padding: 15px 20px;
+  margin: 15px 10px;
+
+  &__user{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+
+    &--avatar{
+      border-radius: 100%;
+      box-shadow: 0 0 3px $orange;
+      height: 50px;
+      width: 50px;
+    }
+
+    &--name{
+      margin-left: 15px;
+    }
+  }
+
+  &__content{
+
+  }
+
+  &__point{
+    margin-bottom: 20px;
+  }
+
+  &__helpful{
+    text-align: right;
+
+    &--button{
+      background: $beige;
+    }
+
+    &--icon{
+      margin-right: 5px;
+    }
+  }
+}
+
+
+
+// =========================
+// addReview
+// =========================
+
+.p-addReview{
+  overflow: hidden;
+
+  &__label{
+    display: block;
+  }
+
+  &__select{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 8px $orange;
+    margin: 20px auto;
+    padding: 10px;
+  }
+
+  &__textarea{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 8px $orange;
+    resize: none;
+    width: 100%;
+  }
+
+  &__submit{
+    float: right;
+    margin-top: 30px;
+  }
+}
+
+
+

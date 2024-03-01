@@ -1,0 +1,313 @@
+[27-Feb-2024 10:20:26 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 10
+[27-Feb-2024 10:21:08 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 10
+[27-Feb-2024 10:22:26 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 10
+[27-Feb-2024 10:24:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 4
+[27-Feb-2024 10:24:43 UTC] PHP Stack trace:
+[27-Feb-2024 10:24:43 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[27-Feb-2024 10:24:43 UTC] PHP   2. session_destroy() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:4
+[27-Feb-2024 10:24:58 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 13
+[27-Feb-2024 10:24:58 UTC] PHP Stack trace:
+[27-Feb-2024 10:24:58 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[27-Feb-2024 10:25:25 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 11
+[27-Feb-2024 10:28:16 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 11
+[27-Feb-2024 10:28:21 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 13
+[27-Feb-2024 10:34:41 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 11
+[27-Feb-2024 10:34:49 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 13
+[27-Feb-2024 10:38:10 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 11
+[27-Feb-2024 10:38:12 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 13
+[27-Feb-2024 10:38:31 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 11
+[27-Feb-2024 10:38:31 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 13
+[27-Feb-2024 10:38:43 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 11
+[27-Feb-2024 10:38:45 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 13
+[27-Feb-2024 10:40:57 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 12
+[27-Feb-2024 10:45:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php on line 9
+[27-Feb-2024 10:45:43 UTC] PHP Stack trace:
+[27-Feb-2024 10:45:43 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:0
+[27-Feb-2024 10:45:43 UTC] PHP   2. session_destroy() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:9
+[27-Feb-2024 10:45:44 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php on line 9
+[27-Feb-2024 10:45:44 UTC] PHP Stack trace:
+[27-Feb-2024 10:45:44 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:0
+[27-Feb-2024 10:45:44 UTC] PHP   2. session_destroy() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:9
+[27-Feb-2024 10:45:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php on line 9
+[27-Feb-2024 10:45:48 UTC] PHP Stack trace:
+[27-Feb-2024 10:45:48 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:0
+[27-Feb-2024 10:45:48 UTC] PHP   2. session_destroy() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:9
+[27-Feb-2024 10:46:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php on line 9
+[27-Feb-2024 10:46:03 UTC] PHP Stack trace:
+[27-Feb-2024 10:46:03 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:0
+[27-Feb-2024 10:46:03 UTC] PHP   2. session_destroy() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:9
+[27-Feb-2024 10:48:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php on line 9
+[27-Feb-2024 10:48:02 UTC] PHP Stack trace:
+[27-Feb-2024 10:48:02 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:0
+[27-Feb-2024 10:48:02 UTC] PHP   2. session_destroy() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:9
+[27-Feb-2024 10:48:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php on line 9
+[27-Feb-2024 10:48:02 UTC] PHP Stack trace:
+[27-Feb-2024 10:48:02 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:0
+[27-Feb-2024 10:48:02 UTC] PHP   2. session_destroy() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:9
+[27-Feb-2024 10:48:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php on line 9
+[27-Feb-2024 10:48:16 UTC] PHP Stack trace:
+[27-Feb-2024 10:48:16 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:0
+[27-Feb-2024 10:48:16 UTC] PHP   2. session_destroy() /Users/yutaro/PhpstormProjects/dynamis/presen0229/logout.php:9
+[27-Feb-2024 10:53:54 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php on line 28
+[27-Feb-2024 10:53:54 UTC] PHP Stack trace:
+[27-Feb-2024 10:53:54 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 10:53:54 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 592
+[27-Feb-2024 10:53:54 UTC] PHP Stack trace:
+[27-Feb-2024 10:53:54 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 10:53:54 UTC] PHP   2. passMatch($str1 = 'adfjoiea0fi', $str2 = NULL, $key = 'pass') /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:28
+[27-Feb-2024 10:53:54 UTC] PHP   3. password_verify($password = '[Sensitive Parameter]', $hash = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:592
+[27-Feb-2024 10:59:15 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php on line 31
+[27-Feb-2024 10:59:15 UTC] PHP Stack trace:
+[27-Feb-2024 10:59:15 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 10:59:15 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 592
+[27-Feb-2024 10:59:15 UTC] PHP Stack trace:
+[27-Feb-2024 10:59:15 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 10:59:15 UTC] PHP   2. passMatch($str1 = 'tejfoidjfmoids', $str2 = NULL, $key = 'pass') /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:31
+[27-Feb-2024 10:59:15 UTC] PHP   3. password_verify($password = '[Sensitive Parameter]', $hash = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:592
+[27-Feb-2024 11:00:12 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php on line 31
+[27-Feb-2024 11:00:12 UTC] PHP Stack trace:
+[27-Feb-2024 11:00:12 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 11:00:12 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 592
+[27-Feb-2024 11:00:12 UTC] PHP Stack trace:
+[27-Feb-2024 11:00:12 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 11:00:12 UTC] PHP   2. passMatch($str1 = 'djkmfowekjf', $str2 = NULL, $key = 'pass') /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:31
+[27-Feb-2024 11:00:12 UTC] PHP   3. password_verify($password = '[Sensitive Parameter]', $hash = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:592
+[27-Feb-2024 11:00:58 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php on line 31
+[27-Feb-2024 11:00:58 UTC] PHP Stack trace:
+[27-Feb-2024 11:00:58 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 11:00:58 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 592
+[27-Feb-2024 11:00:58 UTC] PHP Stack trace:
+[27-Feb-2024 11:00:58 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 11:00:58 UTC] PHP   2. passMatch($str1 = 'kfjdsofiwehf', $str2 = NULL, $key = 'pass') /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:31
+[27-Feb-2024 11:00:58 UTC] PHP   3. password_verify($password = '[Sensitive Parameter]', $hash = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:592
+[27-Feb-2024 11:01:44 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php on line 31
+[27-Feb-2024 11:01:44 UTC] PHP Stack trace:
+[27-Feb-2024 11:01:44 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 11:01:44 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 592
+[27-Feb-2024 11:01:44 UTC] PHP Stack trace:
+[27-Feb-2024 11:01:44 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[27-Feb-2024 11:01:44 UTC] PHP   2. passMatch($str1 = 'djklfeodmklfd', $str2 = NULL, $key = 'pass') /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:31
+[27-Feb-2024 11:01:44 UTC] PHP   3. password_verify($password = '[Sensitive Parameter]', $hash = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:592
+[27-Feb-2024 11:06:19 UTC] PHP Warning:  Attempt to read property "name" on array in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 22
+[27-Feb-2024 11:06:19 UTC] PHP Stack trace:
+[27-Feb-2024 11:06:19 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 00:14:30 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 27
+[28-Feb-2024 00:14:30 UTC] PHP Stack trace:
+[28-Feb-2024 00:14:30 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 00:14:30 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 29
+[28-Feb-2024 00:14:30 UTC] PHP Stack trace:
+[28-Feb-2024 00:14:30 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 01:14:21 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 22
+[28-Feb-2024 01:14:22 UTC] PHP Stack trace:
+[28-Feb-2024 01:14:22 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 01:14:22 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 23
+[28-Feb-2024 01:14:22 UTC] PHP Stack trace:
+[28-Feb-2024 01:14:22 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 01:14:22 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 22
+[28-Feb-2024 01:14:22 UTC] PHP Stack trace:
+[28-Feb-2024 01:14:22 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 01:14:22 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 23
+[28-Feb-2024 01:14:22 UTC] PHP Stack trace:
+[28-Feb-2024 01:14:22 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:00:34 UTC] addReview()エラー: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'test now!' for column 'point' at row 1
+[28-Feb-2024 02:04:32 UTC] addReview()エラー: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'デレっdfd' for column 'point' at row 1
+[28-Feb-2024 02:04:51 UTC] addReview()エラー: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'テストだよ' for column 'point' at row 1
+[28-Feb-2024 02:07:23 UTC] PHP Warning:  Undefined array key "user" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 26
+[28-Feb-2024 02:07:23 UTC] PHP Stack trace:
+[28-Feb-2024 02:07:23 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:07:23 UTC] PHP Warning:  Trying to access array offset on null in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 26
+[28-Feb-2024 02:07:23 UTC] PHP Stack trace:
+[28-Feb-2024 02:07:23 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:07:23 UTC] PHP Warning:  Undefined array key "user" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 27
+[28-Feb-2024 02:07:23 UTC] PHP Stack trace:
+[28-Feb-2024 02:07:23 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:07:23 UTC] PHP Warning:  Trying to access array offset on null in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 27
+[28-Feb-2024 02:07:23 UTC] PHP Stack trace:
+[28-Feb-2024 02:07:23 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:07:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 454
+[28-Feb-2024 02:07:23 UTC] PHP Stack trace:
+[28-Feb-2024 02:07:23 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:07:23 UTC] PHP   2. sanitize($str = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:27
+[28-Feb-2024 02:07:23 UTC] PHP   3. htmlspecialchars($string = NULL, $flags = 51) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:454
+[28-Feb-2024 02:07:23 UTC] PHP Warning:  Undefined array key "review" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 44
+[28-Feb-2024 02:07:23 UTC] PHP Stack trace:
+[28-Feb-2024 02:07:23 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:07:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 454
+[28-Feb-2024 02:07:23 UTC] PHP Stack trace:
+[28-Feb-2024 02:07:23 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:07:23 UTC] PHP   2. sanitize($str = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:44
+[28-Feb-2024 02:07:23 UTC] PHP   3. htmlspecialchars($string = NULL, $flags = 51) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:454
+[28-Feb-2024 02:08:04 UTC] PHP Warning:  Undefined array key "user" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 30
+[28-Feb-2024 02:08:04 UTC] PHP Stack trace:
+[28-Feb-2024 02:08:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:08:04 UTC] PHP Warning:  Trying to access array offset on null in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 30
+[28-Feb-2024 02:08:04 UTC] PHP Stack trace:
+[28-Feb-2024 02:08:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:08:04 UTC] PHP Warning:  Undefined array key "user" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 31
+[28-Feb-2024 02:08:04 UTC] PHP Stack trace:
+[28-Feb-2024 02:08:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:08:04 UTC] PHP Warning:  Trying to access array offset on null in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 31
+[28-Feb-2024 02:08:04 UTC] PHP Stack trace:
+[28-Feb-2024 02:08:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:08:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 454
+[28-Feb-2024 02:08:04 UTC] PHP Stack trace:
+[28-Feb-2024 02:08:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:08:04 UTC] PHP   2. sanitize($str = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:31
+[28-Feb-2024 02:08:04 UTC] PHP   3. htmlspecialchars($string = NULL, $flags = 51) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:454
+[28-Feb-2024 02:08:04 UTC] PHP Warning:  Undefined array key "review" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 48
+[28-Feb-2024 02:08:04 UTC] PHP Stack trace:
+[28-Feb-2024 02:08:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:08:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 454
+[28-Feb-2024 02:08:04 UTC] PHP Stack trace:
+[28-Feb-2024 02:08:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 02:08:04 UTC] PHP   2. sanitize($str = NULL) /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:48
+[28-Feb-2024 02:08:04 UTC] PHP   3. htmlspecialchars($string = NULL, $flags = 51) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:454
+[28-Feb-2024 03:12:21 UTC] PHP Warning:  Undefined array key "machine" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 42
+[28-Feb-2024 03:12:21 UTC] PHP Stack trace:
+[28-Feb-2024 03:12:21 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:12:21 UTC] PHP Warning:  Trying to access array offset on null in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 42
+[28-Feb-2024 03:12:21 UTC] PHP Stack trace:
+[28-Feb-2024 03:12:21 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:12:21 UTC] PHP Warning:  Undefined array key "machine" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 42
+[28-Feb-2024 03:12:21 UTC] PHP Stack trace:
+[28-Feb-2024 03:12:21 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:12:21 UTC] PHP Warning:  Trying to access array offset on null in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 42
+[28-Feb-2024 03:12:21 UTC] PHP Stack trace:
+[28-Feb-2024 03:12:21 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:16:09 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 11
+[28-Feb-2024 03:16:09 UTC] PHP Stack trace:
+[28-Feb-2024 03:16:09 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:16:09 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 27
+[28-Feb-2024 03:16:09 UTC] PHP Stack trace:
+[28-Feb-2024 03:16:09 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:16:09 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 29
+[28-Feb-2024 03:16:09 UTC] PHP Stack trace:
+[28-Feb-2024 03:16:09 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:16:19 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 11
+[28-Feb-2024 03:16:19 UTC] PHP Stack trace:
+[28-Feb-2024 03:16:19 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:16:19 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 27
+[28-Feb-2024 03:16:19 UTC] PHP Stack trace:
+[28-Feb-2024 03:16:19 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:16:19 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 29
+[28-Feb-2024 03:16:19 UTC] PHP Stack trace:
+[28-Feb-2024 03:16:19 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 03:27:00 UTC] PHP Warning:  move_uploaded_file(upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg): Failed to open stream: No such file or directory in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 697
+[28-Feb-2024 03:27:00 UTC] PHP Stack trace:
+[28-Feb-2024 03:27:00 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:0
+[28-Feb-2024 03:27:00 UTC] PHP   2. uploadImg($file = ['name' => 'C8C0VVHVwAEAOA7.jpg', 'full_path' => 'C8C0VVHVwAEAOA7.jpg', 'type' => 'image/jpeg', 'tmp_name' => '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpgq0LJF', 'error' => 0, 'size' => 106351], $key = 'avatar') /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:23
+[28-Feb-2024 03:27:00 UTC] PHP   3. move_uploaded_file($from = '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpgq0LJF', $to = 'upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg') /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:697
+[28-Feb-2024 03:27:00 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpgq0LJF&quot; to &quot;upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg&quot; in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 697
+[28-Feb-2024 03:27:00 UTC] PHP Stack trace:
+[28-Feb-2024 03:27:00 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:0
+[28-Feb-2024 03:27:00 UTC] PHP   2. uploadImg($file = ['name' => 'C8C0VVHVwAEAOA7.jpg', 'full_path' => 'C8C0VVHVwAEAOA7.jpg', 'type' => 'image/jpeg', 'tmp_name' => '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpgq0LJF', 'error' => 0, 'size' => 106351], $key = 'avatar') /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:23
+[28-Feb-2024 03:27:00 UTC] PHP   3. move_uploaded_file($from = '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpgq0LJF', $to = 'upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg') /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:697
+[28-Feb-2024 03:27:00 UTC] PHP Warning:  Undefined array key "avatar" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 698
+[28-Feb-2024 03:27:00 UTC] PHP Stack trace:
+[28-Feb-2024 03:27:00 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:0
+[28-Feb-2024 03:27:00 UTC] PHP   2. uploadImg($file = ['name' => 'C8C0VVHVwAEAOA7.jpg', 'full_path' => 'C8C0VVHVwAEAOA7.jpg', 'type' => 'image/jpeg', 'tmp_name' => '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpgq0LJF', 'error' => 0, 'size' => 106351], $key = 'avatar') /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:23
+[28-Feb-2024 03:27:00 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:698
+Stack trace:
+#0 /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php(23): uploadImg(Array, 'avatar')
+#1 {main}
+  thrown in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 698
+[28-Feb-2024 03:33:32 UTC] PHP Warning:  move_uploaded_file(upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg): Failed to open stream: No such file or directory in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 697
+[28-Feb-2024 03:33:32 UTC] PHP Stack trace:
+[28-Feb-2024 03:33:32 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:0
+[28-Feb-2024 03:33:32 UTC] PHP   2. uploadImg($file = ['name' => 'C8C0VVHVwAEAOA7.jpg', 'full_path' => 'C8C0VVHVwAEAOA7.jpg', 'type' => 'image/jpeg', 'tmp_name' => '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpFKcm6P', 'error' => 0, 'size' => 106351], $key = 'avatar') /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:23
+[28-Feb-2024 03:33:32 UTC] PHP   3. move_uploaded_file($from = '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpFKcm6P', $to = 'upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg') /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:697
+[28-Feb-2024 03:33:32 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpFKcm6P&quot; to &quot;upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg&quot; in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 697
+[28-Feb-2024 03:33:32 UTC] PHP Stack trace:
+[28-Feb-2024 03:33:32 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:0
+[28-Feb-2024 03:33:32 UTC] PHP   2. uploadImg($file = ['name' => 'C8C0VVHVwAEAOA7.jpg', 'full_path' => 'C8C0VVHVwAEAOA7.jpg', 'type' => 'image/jpeg', 'tmp_name' => '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpFKcm6P', 'error' => 0, 'size' => 106351], $key = 'avatar') /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:23
+[28-Feb-2024 03:33:32 UTC] PHP   3. move_uploaded_file($from = '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpFKcm6P', $to = 'upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg') /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:697
+[28-Feb-2024 03:33:32 UTC] PHP Warning:  chmod(): No such file or directory in /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php on line 702
+[28-Feb-2024 03:33:32 UTC] PHP Stack trace:
+[28-Feb-2024 03:33:32 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:0
+[28-Feb-2024 03:33:32 UTC] PHP   2. uploadImg($file = ['name' => 'C8C0VVHVwAEAOA7.jpg', 'full_path' => 'C8C0VVHVwAEAOA7.jpg', 'type' => 'image/jpeg', 'tmp_name' => '/private/var/folders/0g/23j5cq4d0w187v9ssb87j5yr0000gn/T/phpFKcm6P', 'error' => 0, 'size' => 106351], $key = 'avatar') /Users/yutaro/PhpstormProjects/dynamis/presen0229/profEdit.php:23
+[28-Feb-2024 03:33:32 UTC] PHP   3. chmod($filename = 'upload/ce31cfc59646d127bd6860350c4e50519b6942fd.jpeg', $permissions = 420) /Users/yutaro/PhpstormProjects/dynamis/presen0229/function.php:702
+[28-Feb-2024 04:54:43 UTC] PHP Warning:  Undefined array key "u_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/withdraw.php on line 10
+[28-Feb-2024 04:54:43 UTC] PHP Stack trace:
+[28-Feb-2024 04:54:43 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/withdraw.php:0
+[28-Feb-2024 04:54:58 UTC] PHP Warning:  Undefined array key "u_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/withdraw.php on line 10
+[28-Feb-2024 04:54:58 UTC] PHP Stack trace:
+[28-Feb-2024 04:54:58 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/withdraw.php:0
+[28-Feb-2024 04:56:15 UTC] userDelete()エラー: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`pati`.`reviews`, CONSTRAINT `reviews_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[28-Feb-2024 05:01:04 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 25
+[28-Feb-2024 05:01:04 UTC] PHP Stack trace:
+[28-Feb-2024 05:01:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 05:01:04 UTC] PHP Warning:  Trying to access array offset on false in /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php on line 27
+[28-Feb-2024 05:01:04 UTC] PHP Stack trace:
+[28-Feb-2024 05:01:04 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 05:19:05 UTC] PHP Warning:  Array to string conversion in /Users/yutaro/PhpstormProjects/dynamis/presen0229/header.php on line 4
+[28-Feb-2024 05:19:05 UTC] PHP Stack trace:
+[28-Feb-2024 05:19:05 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:0
+[28-Feb-2024 05:19:05 UTC] PHP   2. require_once() /Users/yutaro/PhpstormProjects/dynamis/presen0229/login.php:4
+[28-Feb-2024 05:19:05 UTC] PHP Warning:  Array to string conversion in /Users/yutaro/PhpstormProjects/dynamis/presen0229/header.php on line 4
+[28-Feb-2024 05:19:05 UTC] PHP Stack trace:
+[28-Feb-2024 05:19:05 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:0
+[28-Feb-2024 05:19:05 UTC] PHP   2. require_once() /Users/yutaro/PhpstormProjects/dynamis/presen0229/mypage.php:4
+[28-Feb-2024 05:47:06 UTC] PHP Warning:  Undefined array key "id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 45
+[28-Feb-2024 05:47:06 UTC] PHP Stack trace:
+[28-Feb-2024 05:47:06 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 05:48:59 UTC] PHP Warning:  Undefined array key "id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 45
+[28-Feb-2024 05:48:59 UTC] PHP Stack trace:
+[28-Feb-2024 05:48:59 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 05:50:08 UTC] getReviews: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.content, reviews.point, reviews.created_at, users.avatar, users.name FROM machi' at line 1
+[28-Feb-2024 05:50:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 22
+[28-Feb-2024 05:50:08 UTC] PHP Stack trace:
+[28-Feb-2024 05:50:08 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 05:50:41 UTC] getReviews: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.content, reviews.point, reviews.created_at, users.avatar, users.name FROM machi' at line 1
+[28-Feb-2024 05:50:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 22
+[28-Feb-2024 05:50:41 UTC] PHP Stack trace:
+[28-Feb-2024 05:50:41 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 05:51:25 UTC] getReviews: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.content, reviews.point, reviews.created_at, users.avatar, users.name FROM machi' at line 1
+[28-Feb-2024 05:51:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 23
+[28-Feb-2024 05:51:25 UTC] PHP Stack trace:
+[28-Feb-2024 05:51:25 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 05:56:45 UTC] toggleHelpful()エラー: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`pati`.`helpful`, CONSTRAINT `helpful_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[28-Feb-2024 06:05:58 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:16:52 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:17:03 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:20:47 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:20:50 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:21:15 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:21:20 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:22:14 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:41:56 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 46
+[28-Feb-2024 06:41:56 UTC] PHP Stack trace:
+[28-Feb-2024 06:41:56 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 06:41:56 UTC] PHP Warning:  Undefined array key "user_id" in /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php on line 49
+[28-Feb-2024 06:41:56 UTC] PHP Stack trace:
+[28-Feb-2024 06:41:56 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/machineDetail.php:0
+[28-Feb-2024 06:42:38 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:47:31 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:47:33 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:47:34 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:47:35 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:47:45 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:49:01 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:49:02 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:51:50 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:52:11 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 06:54:58 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 06:55:04 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 07:11:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /Users/yutaro/PhpstormProjects/dynamis/presen0229/toggleHelpful.php on line 8) in /Users/yutaro/PhpstormProjects/dynamis/presen0229/toggleHelpful.php on line 12
+[28-Feb-2024 07:11:09 UTC] PHP Stack trace:
+[28-Feb-2024 07:11:09 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/toggleHelpful.php:0
+[28-Feb-2024 07:11:09 UTC] PHP   2. session_start() /Users/yutaro/PhpstormProjects/dynamis/presen0229/toggleHelpful.php:12
+[28-Feb-2024 07:11:09 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 07:34:56 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 07:34:57 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 07:34:58 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 07:40:38 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 07:40:40 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 07:44:13 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 07:45:28 UTC] toggleHelpful()成功: 削除しました
+[28-Feb-2024 07:46:05 UTC] toggleHelpful()成功: 追加しました
+[28-Feb-2024 07:46:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /Users/yutaro/PhpstormProjects/dynamis/presen0229/register.php on line 3) in /Users/yutaro/PhpstormProjects/dynamis/presen0229/header.php on line 2
+[28-Feb-2024 07:46:37 UTC] PHP Stack trace:
+[28-Feb-2024 07:46:37 UTC] PHP   1. {main}() /Users/yutaro/PhpstormProjects/dynamis/presen0229/register.php:0
+[28-Feb-2024 07:46:37 UTC] PHP   2. require_once() /Users/yutaro/PhpstormProjects/dynamis/presen0229/register.php:39
+[28-Feb-2024 07:46:37 UTC] PHP   3. session_start() /Users/yutaro/PhpstormProjects/dynamis/presen0229/header.php:2
+[28-Feb-2024 07:48:35 UTC] toggleHelpful()成功: 追加しました

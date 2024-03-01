@@ -1,0 +1,119 @@
+.c-view{
+  background: $beige;
+  border-radius: 5px;
+  box-shadow: 0 0 8px 0 $orange;
+  margin: 50px auto;
+  padding: 50px 0;
+  width: 80%;
+
+  @include mq(){
+    width: calc(100% - 30px);
+  }
+}
+
+.c-box{
+  margin: 50px 0;
+}
+
+.c-text{
+  margin-bottom: 15px;
+}
+
+.c-input{
+  margin: 20px auto;
+  padding: 10px 15px;
+  text-align: center;
+  width: 60%;
+}
+
+.c-form{
+  margin: 0 auto;
+  width: 70%;
+
+  @include mq(){
+    width: 100%;
+  }
+
+  &--input{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 8px $orange;
+    font-size: 16px;
+    padding: 15px 20px;
+    margin-bottom: 30px;
+  }
+}
+
+
+.c-label{
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+}
+
+.c-submit{
+  background: $blue;
+  border:none;
+  border-radius: 5px;
+  color: $white;
+  font-weight: bold;
+  font-size: 17px;
+  padding: 15px 20px;
+  margin-top: 70px;
+
+  &:hover{
+    background: $light_blue;
+  }
+}
+
+.c-title {
+  font-size: 24px;
+  margin-bottom: 50px;
+  text-align: center;
+
+  &--sub {
+    border-left: 10px solid $red;
+    border-bottom: 1px dashed $orange;
+    padding-left: 15px;
+    margin-left: 5px;
+  }
+}
+
+.c-list{
+  &__item{
+    margin-bottom: 15px;
+  }
+}
+
+.c-link{
+  &--welcome{
+    background: $green;
+    border-radius: 5px;
+    box-shadow: 0 0 8px $light_green;
+    display: block;
+    margin: 30px auto;
+    text-align: center;
+    width: 200px;
+
+    &:hover{
+      background: $light_green;
+    }
+  }
+}
+
+.c-button{
+  background: $orange;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+
+.c-error{
+  color: $red;
+  text-align: center;
+}
+
+// アジェンダ用
+.c-box{
+  margin: 50px 0;
+}
